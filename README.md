@@ -1,4 +1,4 @@
-# Core Assignment "Postman + Pokemon"
+# Practice Assignment "Postman + Pokemon"
 
 This is Christian Johnson's work for Coding Dojo's Part-Time Accelerated MERN Stack.
 It was submitted on April 27, 2023.
